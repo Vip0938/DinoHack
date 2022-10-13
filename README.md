@@ -1,2 +1,2 @@
 # DinoHack
-A script that for Google Chrome Dino
+A safe Google Chrome Dino Hack which requires NO DOWNLOAD

@@ -1,0 +1,3 @@
+Speed25: Runner.instance_.setSpeed(25)
+Speed1K: Runner.instance_.setSpeed(1000)
+Speed10K: Runner.instance_.setSpeed(10000)
